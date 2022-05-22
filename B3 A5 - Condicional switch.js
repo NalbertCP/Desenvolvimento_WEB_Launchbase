@@ -15,4 +15,4 @@ switch (setor) {
         break
     default:
         console.log("Bem vindo! Qual o seu setor ?")
-}
+ }
