@@ -19,4 +19,4 @@ if (media < 5 ){
 }else {
     console.log()
     console.log(`Parabéns! sua nota foi de ${media.toFixed(2)} pontos`)
-}
+} 
